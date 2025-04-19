@@ -16,8 +16,6 @@ public class Program8 {
             num /= 10;
         }
         System.out.println("Sum of even digits: " + evenSum);
-        System.out.println("Sum of odd digits: " + oddSum);
-        
-      
+        System.out.println("Sum of odd digits: " + oddSum);  
     }
 }
